@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mamedun
+- 👋 Hi, I’m Riki
 - 👀 I’m interested in Javascript, PHP,  Net Core, Node, HTML5, CSS3, Vue
 - 💞️ I’m looking to collaborate on small startup or corporate project
 - 📫 How to reach me +62 812 9046 5O34
