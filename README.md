@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mamedun
-- 👀 I’m interested in Javascript, PHP, HTML5, CSS3, Vue
-- 🌱 I’m currently learning programming language
+- 👀 I’m interested in Javascript, PHP,  Net Core, Node, HTML5, CSS3, Vue
 - 💞️ I’m looking to collaborate on small project
 - 📫 How to reach me +62 812 9046 5O34
 
